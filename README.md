@@ -8,7 +8,7 @@ Paso 2: Clonar o descargar este repositorio
 Puedes clonar este repositorio en tu computadora utilizando Git o simplemente descargarlo como un archivo ZIP y descomprimirlo en tu sistema.
 
 Para clonar el repositorio, puedes usar el siguiente comando en la línea de comandos:
-git clone https://github.com/Dev-Adalid/ReporteIngreso.git
+git clone https://github.com/Dev-Adalid/ReporteIngresos.git
 
 Paso 3: Abrir Power BI Desktop
 Una vez que hayas descargado e instalado Power BI Desktop y hayas clonado o descargado este repositorio, abre Power BI Desktop en tu computadora.
